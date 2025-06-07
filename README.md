@@ -56,7 +56,7 @@ The created model performed very well with a accuracry score of 97% and a precis
 
 ![image](https://github.com/user-attachments/assets/47c355f2-3a0a-483c-8224-96661948d08d)
 
-# Control - Conclusion
+# Control - Conclusion and Stakeholder Suggestions. 
 Our model and feature importance results confirms that employees are currently being overworked leading to higher churn rates for the company. To prevent the employees from churning, the companies stakeholders should focus on:
 1. Cap number of projects a individual can work on to a maximum of 5 per month.
 2. Employees that work over 250 hours per month have a high churn rate. Reward employees who work more projects and hours. Most of the employees in this company worked over 167 hours per month.
