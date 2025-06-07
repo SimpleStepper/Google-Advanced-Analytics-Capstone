@@ -9,7 +9,10 @@ The dataset provided contains 14,999 rows with employees’ self-reported inform
 ![image](https://github.com/user-attachments/assets/e438921c-581c-45b1-8f64-3b6c3f4dcf3c)
 # Analyze 
 EDA was conducted fully within Python. This section will highlight the most important insights gathered during the data exploration phase. 
-1.*Correlation Heatmap*
+1.**Correlation Heatmap**
+
 A Correlation Heatmap was made to identify which features should be investigated. By creating the heatmap, we understand that Last Evaluation, Number of Projects, Average Monthly Hours, and Satisfaction level all potentially correlate with employees leaving the company. 
+
 ![image](https://github.com/user-attachments/assets/fe0c6a87-6640-4924-9b95-12affa2a99a1)
+
 2. *Monthly Hours compared to Number of Projects*
