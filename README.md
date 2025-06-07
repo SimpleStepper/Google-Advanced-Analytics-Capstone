@@ -14,10 +14,15 @@ The dataset provided contains 14,999 rows with employees’ self-reported inform
 # Analyze 
 EDA was conducted fully within Python. This section will highlight the most important insights gathered during the data exploration phase. 
 
-**1.Correlation Heatmap**
+## 1. Correlation Heatmap
 
 A Correlation Heatmap was made to identify which features should be investigated. By creating the heatmap, we understand that **Last Evaluation, Number of Projects, Average Monthly Hours, and Satisfaction level all potentially correlate with employees leaving the company**. 
 
 ![image](https://github.com/user-attachments/assets/fe0c6a87-6640-4924-9b95-12affa2a99a1)
 
-**2. Monthly Hours compared to Number of Projects**
+## 2. Monthly Hours compared to Number of Projects Boxplot
+- Strong Correlation between high workload (measured by monthly hours and number of projects)
+- Burnout risk increases with high project count (6-7) and high working hours (over 200 hours per month)
+
+![image](https://github.com/user-attachments/assets/f8f2aa3d-a6d6-4530-8fd7-06fae23401ea)
+
