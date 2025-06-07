@@ -52,7 +52,7 @@ A random forest model comprising 100 decision trees was used to determine featur
 
 ![image](https://github.com/user-attachments/assets/a960fe1c-36df-40df-9765-74946ca44022)
 
-The created model performed very well with a accuracry score of 97% and a precision score of .95%. The model was verified using a confusion matrix which showed 10 false positives, and 49 false negatives, compared to 2491 accurate positives, and 448 accurate negatives.
+The created model performed very well with a accuracry score of 97% and a precision score of 95%. The model was verified using a confusion matrix which showed 10 false positives, and 49 false negatives, compared to 2491 accurate positives, and 448 accurate negatives.
 
 ![image](https://github.com/user-attachments/assets/47c355f2-3a0a-483c-8224-96661948d08d)
 
