@@ -16,7 +16,7 @@ The objective of this project was to **develop a predictive model** to identify 
 
 The project followed the **DMAIC framework**—Define, Measure, Analyze, Improve, and Control—to ensure a structured and data-driven approach. The final model achieved strong performance, highlighting **employee satisfaction, tenure, and workload** as the top predictors of turnover. These insights offer actionable guidance for Salifort Motors leadership to proactively identify retention risks.
 
-The Python code used to create this project can be found [here](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/Google%20Advanced%20Data%20Analytics%20Capstone.ipynb), or in the GitHub repository. 
+All code used to create this project was written by me and can be found can be found [here](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/Google%20Advanced%20Data%20Analytics%20Capstone.ipynb), or in the GitHub repository.
 
 ---
 
