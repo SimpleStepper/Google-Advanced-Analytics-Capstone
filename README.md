@@ -8,12 +8,15 @@
 3. [Analyze - Exploratory data Analysis](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#analyze---exploratory-data-analysis)
 4. [Improve - Model Creation](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#improve---model-creation)
 5. [Control - Conclusion and Stakeholder Suggestions](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#control---conclusion-and-stakeholder-suggestions)
-   
-The code for this Project can be found here, or accessed within the GitHub Repository
+
 --- 
 
 ## Define - Overview
-The goal of this project was to **build a predictive model** using EDA techniques and Random Forest Model to **identify which employees were likely to leave Salifort Motors**. The project utilized internal HR and survey data to determine the most influential factors behind employee attrition. The final model achieved strong performance, highlighting employee satisfaction, tenure, and workload as the top predictors of turnover. These insights can help leadership at Salifort Motors proactively address retention risks and improve employee engagement strategies. This project was created with the DMAIC framework as a structural flow. 
+The objective of this project was to **develop a predictive model** to identify employees at risk of leaving Salifort Motors. Leveraging **exploratory data analysis (EDA)** and a **Random Forest algorithm**, the analysis focused on internal HR and employee survey data to uncover the key drivers of turnover.
+
+The project followed the **DMAIC framework**—Define, Measure, Analyze, Improve, and Control—to ensure a structured and data-driven approach. The final model achieved strong performance, highlighting **employee satisfaction, tenure, and workload** as the top predictors of turnover. These insights offer actionable guidance for Salifort Motors leadership to proactively identify retention risks.
+
+The Python code used to create this project can be found here, or in the GitHub repository. 
 
 ---
 
