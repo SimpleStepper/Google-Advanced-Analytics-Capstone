@@ -2,7 +2,7 @@
 Predicting Employee Attrition Using Random Forest Feature Importance
 
 # Define - Overview
-The goal of this project was to *build a predictive model* using EDA techniques and Random Forest Model to *identify which employees were likely to leave Salifort Motors*. The project utilized internal HR and survey data to determine the most influential factors behind employee attrition. The final model achieved strong performance, highlighting employee satisfaction, tenure, and workload as the top predictors of turnover. These insights can help leadership at Salifort Motors proactively address retention risks and improve employee engagement strategies.
+The goal of this project was to **build a predictive model** using EDA techniques and Random Forest Model to **identify which employees were likely to leave Salifort Motors**. The project utilized internal HR and survey data to determine the most influential factors behind employee attrition. The final model achieved strong performance, highlighting employee satisfaction, tenure, and workload as the top predictors of turnover. These insights can help leadership at Salifort Motors proactively address retention risks and improve employee engagement strategies.
 
 The code for this Project can be found here, or accessed in the GitHub Repository
 
