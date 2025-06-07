@@ -41,7 +41,7 @@ A Correlation Heatmap was made to identify which features should be investigated
 ![image](https://github.com/user-attachments/assets/fad4f2d4-ad35-49a0-8550-10139c17e13f)
 
 ### 5. Latest evaluation compared to Average Monthly Hours
-- Model is similar to #3, employees that work over 260 hours are more likely to churn, depsite high evaluation ratings.
+- Employees that work over 260 hours are more likely to churn, depsite high evaluation ratings.
 - Evaluation ratings are biased to be higher the longer a employee works each month.
 - Employees who work less than 150 hours have a lower evaluation and higher churn rate than employees working in the 150 - 220 hours range.
   
@@ -52,7 +52,7 @@ A random forest model comprising 100 decision trees was used to determine featur
 
 ![image](https://github.com/user-attachments/assets/a960fe1c-36df-40df-9765-74946ca44022)
 
-The created model performed very well with a accuracry score of 97% and a precision score of 95%. The model was verified using a confusion matrix which showed 10 false positives, and 49 false negatives, compared to 2491 accurate positives, and 448 accurate negatives.
+The created model performed very well with a accuracry score of 97% and a precision score of 98%. The model was verified using a confusion matrix which showed 10 false positives, and 49 false negatives, compared to 2491 accurate positives, and 448 accurate negatives.
 
 ![image](https://github.com/user-attachments/assets/47c355f2-3a0a-483c-8224-96661948d08d)
 
