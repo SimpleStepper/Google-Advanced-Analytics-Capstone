@@ -24,5 +24,8 @@ A Correlation Heatmap was made to identify which features should be investigated
 - Strong Correlation between high workload (measured by monthly hours and number of projects)
 - Burnout risk increases with **high project count (6-7)** and **high working hours** (over **200 hours** per month)
 - Employees leave company when assigned **under 2 projects** per month or **over 5 projects** per month
-![image](https://github.com/user-attachments/assets/f8f2aa3d-a6d6-4530-8fd7-06fae23401ea)
+![image](https://github.com/user-attachments/assets/86ded3ca-3e19-444f-90d4-9445f5bcafd8)
+
+
+## 3. Monthly Hours compared to Number of Projects Boxplot
 
