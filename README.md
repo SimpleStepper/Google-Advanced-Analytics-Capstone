@@ -3,11 +3,11 @@
 ---
 
 # Table of Contents
-1. [Define - Overview](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
-2. [Method - Dataset](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
-3. [Analyze - Exploratory data Analysis](
-4. [Improve - Model Creation](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
-5. [Control - Conclusion and Stakeholder Suggestions](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
+1. [Define - Overview](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#define---overview)
+2. [Method - Dataset](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#method---dataset)
+3. [Analyze - Exploratory data Analysis](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#analyze---exploratory-data-analysis)
+4. [Improve - Model Creation](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#improve---model-creation)
+5. [Control - Conclusion and Stakeholder Suggestions](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#control---conclusion-and-stakeholder-suggestions)
 --- 
 
 ## Define - Overview
