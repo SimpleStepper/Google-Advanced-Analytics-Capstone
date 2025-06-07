@@ -7,6 +7,7 @@ The code for this Project can be found here, or accessed in the GitHub Repositor
 
 # Method 
 The dataset provided contains 14,999 rows with employees’ self-reported information. It contains 10 columns featuring data on satisfaction levels, time spent with company, promotions, department, salary and left. The full dataset can be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction), however it has been repurposed by Google for this project. 
+
 ![image](https://github.com/user-attachments/assets/de342ab0-eeeb-474a-ba44-8c3704a5daa8)
 
 
