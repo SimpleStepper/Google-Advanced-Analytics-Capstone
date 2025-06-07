@@ -3,11 +3,11 @@
 ---
 
 # Table of Contents
-1. Define - Overview
-2. Method - Dataset
-3. Analyze - Exploratory data Analysis
-4. Improve - Model Creation
-5. Control - Conclusion and Stakeholder Suggestions
+1. [Define - Overview](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
+2. [Method - Dataset](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
+3. [Analyze - Exploratory data Analysis](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
+4. [Improve - Model Creation](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
+5. [Control - Conclusion and Stakeholder Suggestions](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone/blob/main/README.md)
 --- 
 
 # Define - Overview
