@@ -1,16 +1,28 @@
-# Google-Advanced-Analytics-Capstone
-Predicting Employee Attrition Using Random Forest Feature Importance
+# Google Advanced Analytics Capstone
+## Predicting Employee Attrition Using Random Forest Feature Importance
+---
+
+# Table of Contents
+1. Define - Overview
+2. Method - Dataset
+3. Analyze - Exploratory data Analysis
+4. Improve - Model Creation
+5. Control - Conclusion and Stakeholder Suggestions
+--- 
 
 # Define - Overview
-The goal of this project was to **build a predictive model** using EDA techniques and Random Forest Model to **identify which employees were likely to leave Salifort Motors**. The project utilized internal HR and survey data to determine the most influential factors behind employee attrition. The final model achieved strong performance, highlighting employee satisfaction, tenure, and workload as the top predictors of turnover. These insights can help leadership at Salifort Motors proactively address retention risks and improve employee engagement strategies.
+The goal of this project was to **build a predictive model** using EDA techniques and Random Forest Model to **identify which employees were likely to leave Salifort Motors**. The project utilized internal HR and survey data to determine the most influential factors behind employee attrition. The final model achieved strong performance, highlighting employee satisfaction, tenure, and workload as the top predictors of turnover. These insights can help leadership at Salifort Motors proactively address retention risks and improve employee engagement strategies. This project was created with the DMAIC framework as a structural flow. 
 
 The code for this Project can be found here, or accessed within the GitHub Repository
+
+---
 
 # Method - Dataset
 The dataset provided contains 14,999 rows with employees’ self-reported information. It contains 10 columns featuring data on satisfaction levels, time spent with company, promotions, department, salary and left. The full dataset can be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction), however it has been repurposed by Google for this project. 
 
 ![image](https://github.com/user-attachments/assets/de342ab0-eeeb-474a-ba44-8c3704a5daa8)
 
+---
 
 # Analyze - Exploratory Data Analysis
 EDA was conducted fully within Python. This section will highlight the most important insights gathered during the data exploration phase. 
@@ -47,6 +59,9 @@ A Correlation Heatmap was made to identify which features should be investigated
   
 ![image](https://github.com/user-attachments/assets/3dd66430-f2de-4bc2-98fe-b06e8d428959)
 
+---
+
+
 # Improve - Model Creation
 A random forest model comprising 100 decision trees was used to determine feature importance in which employees were more likely to churn (leave the company). The plot below shows that satisfaction level, tenure, number of projects, Average monthly hours, and last evaluation were the top 6 most important reasons in determining whether a employee is likely to leave the company.
 
@@ -56,7 +71,9 @@ The created model performed very well with a accuracry score of 97% and a precis
 
 ![image](https://github.com/user-attachments/assets/47c355f2-3a0a-483c-8224-96661948d08d)
 
-# Control - Conclusion and Stakeholder Suggestions. 
+---
+
+# Control - Conclusion and Stakeholder Suggestions
 Our model and feature importance results confirms that employees are currently being overworked leading to higher churn rates for the company. To prevent the employees from churning, the companies stakeholders should focus on:
 1. Cap number of projects a individual can work on to a maximum of 5 per month.
 2. Employees that work over 250 hours per month have a high churn rate. Reward employees who work more projects and hours. Most of the employees in this company worked over 167 hours per month.
